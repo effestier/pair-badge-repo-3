@@ -1,3 +1,3 @@
 # Contribution 1
 
-Co-authored for badge.
+Co-authored commit.
